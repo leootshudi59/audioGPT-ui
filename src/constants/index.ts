@@ -1,3 +1,4 @@
+import CSS from "./css";
 import ROUTES from "./routes";
 
-export { ROUTES };
+export { CSS, ROUTES };
